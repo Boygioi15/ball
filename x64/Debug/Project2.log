@@ -1,0 +1,58 @@
+﻿  Sticky.cpp
+C:\Users\boygioi15\Desktop\SDL VS\Lessons\01_hello_SDL\Sticky.cpp(268,22): warning C4244: '+=': conversion from '_Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\boygioi15\Desktop\SDL VS\Lessons\01_hello_SDL\Sticky.cpp(269,22): warning C4244: '+=': conversion from '_Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\boygioi15\Desktop\SDL VS\Lessons\01_hello_SDL\Sticky.cpp(271,22): warning C4244: '+=': conversion from '_Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\boygioi15\Desktop\SDL VS\Lessons\01_hello_SDL\Sticky.cpp(272,22): warning C4244: '+=': conversion from '_Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\boygioi15\Desktop\SDL VS\Lessons\01_hello_SDL\Sticky.cpp(278,39): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\boygioi15\Desktop\SDL VS\Lessons\01_hello_SDL\Sticky.cpp(278,29): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\boygioi15\Desktop\SDL VS\Lessons\01_hello_SDL\Sticky.cpp(279,39): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\boygioi15\Desktop\SDL VS\Lessons\01_hello_SDL\Sticky.cpp(279,29): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  Project2.vcxproj -> C:\Users\boygioi15\Desktop\SDL VS\mehhehe\x64\Debug\Project2.exe
